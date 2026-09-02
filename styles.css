@@ -181,6 +181,13 @@ a { color: var(--navy); text-decoration: none; }
   place-items: center;
   box-shadow: 0 20px 45px -25px rgba(20, 36, 63, 0.55);
 }
+img.portrait-frame {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  object-position: center top;
+}
 .portrait-mono {
   font-family: var(--serif);
   font-size: 72px;
