@@ -1,4 +1,4 @@
-# Carin Cutler — Fractional General Counsel
+# Carin Cutler, Fractional General Counsel
 
 A single-page marketing website for Carin Cutler's fractional General Counsel practice,
 serving private equity and venture-backed companies.
@@ -7,8 +7,8 @@ serving private equity and venture-backed companies.
 
 Plain static HTML + CSS. No build step, no dependencies. Fonts load from Google Fonts.
 
-- `index.html` — all page content
-- `styles.css` — all styling (clean/corporate, navy & slate palette)
+- `index.html`: all page content
+- `styles.css`: all styling (clean/corporate, navy & slate palette)
 
 ## Editing common things
 
