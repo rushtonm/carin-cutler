@@ -266,7 +266,7 @@ img.portrait-frame {
   border-top: 2px solid var(--navy);
 }
 .ai-closing p { font-size: 16.5px; color: var(--body); margin: 0 0 22px; }
-.ai-closing a { color: var(--accent); font-weight: 600; }
+.ai-closing p a { color: var(--accent); font-weight: 600; }
 .ai-closing-actions { display: flex; flex-wrap: wrap; gap: 14px; }
 
 /* ---------- Timeline ---------- */
